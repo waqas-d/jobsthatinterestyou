@@ -1,3 +1,8 @@
+Waqas Dad
+03/15/2024
+Excercise name: Jobs that interest you
+Description: You are to create a website in React TypeScript about five places that you want to work at. Dive into why you want to work there (culture, benefits, hybrid, location)
+Does the job require the current stack that you know. Would you have learn new skills? What goals would you like to achieve in the hypothetical position? Do you currently have the skillsets for the job? 
 Peer Reviewer: Brandon Nguyen 3/15/2024 @ 11:23AM
 Peer Review Comments: All the information needed for the website is there, the thing you can add though, is probably more styling like a different colored background, or different routes for each company.
 
