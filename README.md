@@ -1,3 +1,6 @@
+Peer Reviewer: Brandon Nguyen 3/15/2024 @ 11:23AM
+Peer Review Comments: All the information needed for the website is there, the thing you can add though, is probably more styling like a different colored background, or different routes for each company.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
